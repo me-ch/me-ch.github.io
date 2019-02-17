@@ -1,11 +1,11 @@
 @import url(http:
 //fonts.googleapis.com/css?family=Montserrat:400,700);
 a{
-  color: #1abc9c;
+  color: #ff4d6a;
   text-decoration: none;
 }
 a:hover{
-  color: #F6A623;
+  color: #1abc9c;
 }
 h1,h2,h3,h4{
   color:#333;
